@@ -1,0 +1,42 @@
+.estilo2
+{
+    font-size: 30px;
+    background-color: rgb(255, 255, 255);
+   height: 6px;
+   width: 100%;
+   margin: 8px auto;
+
+}
+.estilo
+{
+    font-size: 30px;
+    background-color: rgb(255, 255, 255);
+   height: 6px;
+   width: 70px;
+   margin: 8px auto;
+
+}
+body
+{
+    text-align: center;
+    background-color: rgb(232, 228, 20);
+}
+h1
+{
+    font-size: 30px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#origamis
+{
+    background-color: black;
+    
+}
+p
+{
+    font-size: 25px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
